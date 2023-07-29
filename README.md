@@ -2,6 +2,14 @@
 
 Repositório para arquivar algumas dashboards de estudo desenvolvidas.
 
+## Sumário das dashboards:
+
+1. [Análise de filmes e séries da Netflix](#1-an%C3%A1lise-de-filmes-e-s%C3%A9ries-da-netflix)
+2. [Gatitos](#2--gatitos)
+3. [Dashboard Olist](#3-dashboard-olist)
+4. [3º Semana de Engenharia do IFMA](#4-3%C2%BA-semana-de-engenharia-do-ifma)
+
+
 ## 1. **Análise de filmes e séries da Netflix**
 
 <img src="https://github.com/Alm3ida/powerbi_projects/assets/60764973/2ba0070d-392c-4558-a148-5568d2dd8f84">
@@ -54,7 +62,7 @@ Por conta do tempo, não foi explorado o uso de técnicas de #NLP, mas certament
 Você pode conferir mais detalhes do projeto completo no link:
 https://lnkd.in/dGuHTSUx
 
-## 2.  Gatitos
+## 2. Gatitos
 
 ![dash_gatitos_page-0001](https://github.com/Alm3ida/powerbi_projects/assets/60764973/c63dbc4a-a65e-4d06-a4f2-aa5db70e0159)
 
