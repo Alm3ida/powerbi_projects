@@ -5,7 +5,7 @@ Repositório para arquivar algumas dashboards de estudo desenvolvidas.
 ## Sumário das dashboards:
 
 1. [Análise de filmes e séries da Netflix](#1-an%C3%A1lise-de-filmes-e-s%C3%A9ries-da-netflix)
-2. [Gatitos](#2--gatitos)
+2. [Gatitos](#2-gatitos)
 3. [Dashboard Olist](#3-dashboard-olist)
 4. [3º Semana de Engenharia do IFMA](#4-3%C2%BA-semana-de-engenharia-do-ifma)
 
